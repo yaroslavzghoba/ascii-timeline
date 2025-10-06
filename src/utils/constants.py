@@ -1,0 +1,15 @@
+class Constants:
+    EVENT_LABEL_KEY = "event_label"
+    SHOW_EVENT_LABEL_KEY = "show_event_label"
+    EVENT_TIMESTAMP_KEY = "event_timestamp"
+
+    TIMELINE_LENGTH_DEFAULT = 60
+    UNPOINTED_TIMELINE_SECTION_CHAR = "-"
+    POINTED_TIMELINE_SECTION_CHAR = "+"
+    EVENT_LABEL_PREFIX = "["
+    EVENT_LABEL_SUFFIX = "]"
+
+    MS_PER_SECOND = 1000
+    MS_PER_MINUTE = MS_PER_SECOND * 60
+    MS_PER_HOUR = MS_PER_MINUTE * 60
+    MS_PER_DAY = MS_PER_HOUR * 24
