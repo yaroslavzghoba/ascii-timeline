@@ -11,7 +11,7 @@ from utils.to_epoch_millis import to_epoch_millis
 
 class AsciiTimeline:
 
-    def generate(events: List[Event], length: int = Constants.TIMELINE_LENGTH_DEFAULT):
+    def generate(events: List[Event], length: int):
         """Generate a new timeline using ASCII characters."""
 
         # Return some placeholder if there are no events or length is too short.
@@ -68,7 +68,7 @@ class AsciiTimeline:
             # If this is the layer for the event labels.
             current_line = ""
             labels_on_layer = TimelineLabelHelpers.get_labels_on_layer(labels, layer)
-            for index, label in enumerate(labels_on_layer):
+            for label in labels_on_layer:
                 current_line = TimelineLabelHelpers.print_label_on(label, current_line)
             lines_to_print.append(current_line)
 

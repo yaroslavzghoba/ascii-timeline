@@ -1,0 +1,62 @@
+[
+    {
+        "event_label": "1843, der erste Algorithmus von Ada Lovelace",
+        "show_event_label": true,
+        "event_timestamp": "1843"
+    },
+    {
+        "event_label": "1936, die universelle Maschine von Alan Turing",
+        "show_event_label": true,
+        "event_timestamp": "1936"
+    },
+    {
+        "event_label": "1946, der erste Computer ENIAC",
+        "show_event_label": true,
+        "event_timestamp": "1946"
+    },
+    {
+        "event_label": "1947, die Programmiersprache Assembler",
+        "show_event_label": true,
+        "event_timestamp": "1947"
+    },
+    {
+        "event_label": "1957, die Programmiersprache Fortran",
+        "show_event_label": true,
+        "event_timestamp": "1957"
+    },
+    {
+        "event_label": "1960, die Programmiersprache COBOL",
+        "show_event_label": true,
+        "event_timestamp": "1960"
+    },
+    {
+        "event_label": "1972, die Programmiersprache C",
+        "show_event_label": true,
+        "event_timestamp": "1972"
+    },
+    {
+        "event_label": "1985, die Programmiersprache C++",
+        "show_event_label": true,
+        "event_timestamp": "1985"
+    },
+    {
+        "event_label": "1991, die Programmiersprache Python",
+        "show_event_label": true,
+        "event_timestamp": "1991"
+    },
+    {
+        "event_label": "1995, die Programmiersprache Java",
+        "show_event_label": true,
+        "event_timestamp": "1995"
+    },
+    {
+        "event_label": "2011, die Programmiersprache Kotlin",
+        "show_event_label": true,
+        "event_timestamp": "2011-07-22"
+    },
+    {
+        "event_label": "2025, heute",
+        "show_event_label": true,
+        "event_timestamp": "2025-11"
+    }
+]
