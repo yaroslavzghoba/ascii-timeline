@@ -81,6 +81,11 @@ Years of any length are supported, including BCE (Before Common Era) years, whic
         "event_label": "-509 BC, The founding of the Roman Empire",
         "show_event_label": true,
         "event_timestamp": "-509"
-    }
+    },
+    {
+        "event_label": "15232, Simultaneous total solar eclipse and transit of Venus",
+        "show_event_label": true,
+        "event_timestamp": "15232-04-05"
+    },
 ]
 ```
