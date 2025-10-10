@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ]
 ```
 
-As shown above, you only need to specify the year, but more precise formats are supported. See the [supported time formats](README.md#supported-time-formats) for more details.
+As shown above, you only need to specify the year, but more precise formats are supported. See the [supported time formats](https://github.com/yaroslavzghoba/ascii-timeline/tree/docs/task-430-readme?tab=readme-ov-file#supported-time-formats) for more details.
 
 3. Generate the timeline. Run the main script, passing the desired timeline length and the path to your JSON configuration file:
 
