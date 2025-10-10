@@ -33,7 +33,7 @@
 pip install -r requirements.txt
 ```
 
-> [!TIP] Python Virtual Environment
+> [!TIP]
 > It's good practice to create a separate virtual environment for a project to isolate its dependencies. Read [how to create a new virtual environment](https://docs.python.org/3/library/venv.html) for more details.
 
 2. Create a new JSON file (e.g., `events.json`) and define your events. Each timeline must contain at least two events. The event with the earliest date determines the beginning of the timeline, and the event with the latest date determines its end.
