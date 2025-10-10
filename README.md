@@ -63,7 +63,7 @@ python3 ./src/main.py --length 60 ./events.json
 
 ## Supported Time Formats
 
-**ASCII Timeline** uses an [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)-like format, allowing you to specify only the known parts of a date. The program supports the following formats for the "event_timestamp" field:
+**ASCII Timeline** uses an [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)-like format, allowing you to specify only the known parts of a date. The program supports the following formats for the `event_timestamp` field:
 
 | Format | Example | Description |
 | --- | --- | --- |
@@ -86,6 +86,6 @@ Years of any length are supported, including BCE (Before Common Era) years, whic
         "event_label": "15232, Simultaneous total solar eclipse and transit of Venus",
         "show_event_label": true,
         "event_timestamp": "15232-04-05"
-    },
+    }
 ]
 ```
