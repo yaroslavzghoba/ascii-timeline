@@ -1,62 +1,62 @@
 [
     {
-        "event_label": "1843, der erste Algorithmus von Ada Lovelace",
+        "event_label": "1843, the first algorithm by Ada Lovelace",
         "show_event_label": true,
         "event_timestamp": "1843"
     },
     {
-        "event_label": "1936, die universelle Maschine von Alan Turing",
+        "event_label": "1936, the universal machine by Alan Turing",
         "show_event_label": true,
         "event_timestamp": "1936"
     },
     {
-        "event_label": "1946, der erste Computer ENIAC",
+        "event_label": "1946, the first computer ENIAC",
         "show_event_label": true,
         "event_timestamp": "1946"
     },
     {
-        "event_label": "1947, die Programmiersprache Assembler",
+        "event_label": "1947, the Assembler programming language",
         "show_event_label": true,
         "event_timestamp": "1947"
     },
     {
-        "event_label": "1957, die Programmiersprache Fortran",
+        "event_label": "1957, the Fortran programming language",
         "show_event_label": true,
         "event_timestamp": "1957"
     },
     {
-        "event_label": "1960, die Programmiersprache COBOL",
+        "event_label": "1960, the COBOL programming language",
         "show_event_label": true,
         "event_timestamp": "1960"
     },
     {
-        "event_label": "1972, die Programmiersprache C",
+        "event_label": "1972, the C programming language",
         "show_event_label": true,
         "event_timestamp": "1972"
     },
     {
-        "event_label": "1985, die Programmiersprache C++",
+        "event_label": "1985, the C++ programming language",
         "show_event_label": true,
         "event_timestamp": "1985"
     },
     {
-        "event_label": "1991, die Programmiersprache Python",
+        "event_label": "1991, the Python programming language",
         "show_event_label": true,
         "event_timestamp": "1991"
     },
     {
-        "event_label": "1995, die Programmiersprache Java",
+        "event_label": "1995, the Java programming language",
         "show_event_label": true,
         "event_timestamp": "1995"
     },
     {
-        "event_label": "2011, die Programmiersprache Kotlin",
+        "event_label": "2011, the Kotlin programming language",
         "show_event_label": true,
         "event_timestamp": "2011-07-22"
     },
     {
-        "event_label": "2025, heute",
-        "show_event_label": true,
+        "event_label": "2025, today",
+        "show_event_label": false,
         "event_timestamp": "2025-11"
     }
 ]
